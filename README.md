@@ -1,0 +1,20 @@
+## mido-user 7.0 NRD90M V11.0.2.0.NCFCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: mido
+- Brand: xiaomi
+- Flavor: mido-user
+- Release Version: 7.0
+- Kernel Version: 3.18.31
+- Id: NRD90M
+- Incremental: V11.0.2.0.NCFCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: 480
+- Fingerprint: xiaomi/mido/mido:7.0/NRD90M/V11.0.2.0.NCFCNXM:user/release-keys
+- OTA version: 
+- Branch: mido-user-7.0-NRD90M-V11.0.2.0.NCFCNXM-release-keys
+- Repo: xiaomi_mido_dump
